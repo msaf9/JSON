@@ -1,0 +1,18 @@
+[
+    {
+        "CompanyName": "Big Corporation",
+        "NumberOfEmployees": 15000,
+        "CEO": "Max"
+    },
+    {
+        "CompanyName": "Startup",
+        "NumberOfEmployees": 500,
+        "CEO": none
+    },
+    {
+        "RegistrationId": 1101,
+        "CompanyName": "Small Corporation",
+        "NumberOfEmployees": 7000,
+        "CEO": "Rick"
+    }
+]
