@@ -1,11 +1,13 @@
-# JSON
-Simple HTML page (HTML 5, CSS 3, JavaScript, and JSON).
+# JSON object implementation in Webpage using Plain JS
 
-#HTML5
+### About
+* This project deals with the implementation of JSON object in Webpage using Plain JavaScript.
 
-#CSS3
+### Languages
+- HTML5 (Markup language)
+- CSS3 (styling language)
+- JavaScript (programming language)
 
-#JavaScript
-
-#JSON
-
+### Data format 
+- JSON 
+    > [companies.json](companies.json)
