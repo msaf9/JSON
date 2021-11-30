@@ -1,5 +1,5 @@
-var object = new Array();
-object = {
+var object1 = new Array();
+object1 = {
   companies: [
     {
       company: {
@@ -27,7 +27,36 @@ object = {
     },
   ],
 };
-console.log(object);
-var json = document.getElementById("json");
 
-json.innerHTML = JSON.stringify(object, undefined, 2);
+const object2 = {
+  key: [
+    {
+      key1: "value",
+      key2: "value",
+      key3: {
+        key3a: "value",
+        key3b: "value",
+      },
+      key4: "value",
+    },
+    {
+      key1: "value",
+      key2: "value",
+      key3: {
+        key3a: "value",
+        key3b: "value",
+      },
+      key4: "value",
+    },
+  ],
+};
+
+console.log(object1);
+var json = document.getElementById("json");
+json.innerHTML = JSON.stringify(object1, undefined, 2);
+
+for (const index in object2.key) {
+  delete object2.key[index].key1;
+}
+
+console.log(object2);
