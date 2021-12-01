@@ -28,7 +28,7 @@ object1 = {
   ],
 };
 
-const object2 = {
+var object2 = {
   key: [
     {
       key1: "value",
