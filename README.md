@@ -23,8 +23,8 @@ This project deals with the implementation of JSON object in Webpage using Plain
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/JSON.git
-cd JSON
+git https://github.com/msaf9/json.git
+cd json
 ```
 
 ## License
