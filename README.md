@@ -2,16 +2,16 @@
 JSON object in Webpage.
 
 ## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Introduction](#introduction)
+- [Web Technologies](#web-technologies)
+- [Project status](#project-status)
+- [Installation](#installation)
+- [License](#license)
 
 ## Introduction
 This project deals with the implementation of JSON object in Webpage using Plain JavaScript.
 
-## Technologies
+## Web Technologies
 - HTML5 (Markup language)
 - CSS3 (styling language)
 - JavaScript (programming language)
