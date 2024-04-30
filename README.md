@@ -28,3 +28,4 @@ cd json
 ```
 
 ## License
+[MIT License](LICENSE)
