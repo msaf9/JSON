@@ -18,7 +18,7 @@ This project deals with the implementation of JSON object in Webpage using Plain
 - Data format: JSON - [companies.json](companies.json)
 
 ## Project status
-> **Continuous**
+> **In progress**
 
 ## Installation
 ### Get repository
